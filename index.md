@@ -40,4 +40,5 @@ The map uses an interactive legend to filter by state. This improves clarity and
 
 ## 📈 Visualizations
 
-<iframe src="assets/plot1.html" width="700"
+<iframe src="assets/plot1.html" width="700" height="450" style="border:none;"></iframe>  
+<iframe src="assets/plot2.html" width="700" height="450" style="border:none;"></iframe>
